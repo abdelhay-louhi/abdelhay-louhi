@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @abdelhay-louhi.
-- 👀 I'm basically interested in algorithms, Problem Solving and Machine Learning,
-  but I also find myself interested in cybersecurity, cryptography and blockchain, inspired by moroccan cybersecurity experts
-  like Ahmed Lekssays and Yassine ABOUKIR ...
-- 💞️ I am fond of open source projects, by the way.
-
-
+- I'm LOUHI Abdelhay, and I'm interested in **Data science**and Problem-solving.
+- **Data**: is what exist (what we know).
+- **Model**: is what we want. What we need to understand a system.
+- **Data Science**: is what let's us create **models** based on **Data**. It's what let's us 'understand' things.
