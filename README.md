@@ -1,4 +1,4 @@
-- I'm LOUHI Abdelhay, and I'm interested in **Data science** and Problem-solving.
+- I'm LOUHI Abdelhay, and I'm interested in **Data science** and **Problem-solving**.
 - **Data**: is what exist (what we know).
 - **Model**: is what we want. What we need to understand a system.
 - **Data Science**: is what let's us create **models** based on **Data**. It's what allows us to 'understand' things.
